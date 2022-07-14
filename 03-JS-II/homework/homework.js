@@ -1,4 +1,4 @@
-// No cambies los nombres de las funciones.
+// No cambies los nombres de las funciones. Hola
 
 function obtenerMayor(x, y) {
   // "x" e "y" son números enteros (int).
