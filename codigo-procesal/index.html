@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Codigo Procesal - Consulta Interactiva</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-content">
+      <h1 class="header-title" id="headerTitle">Codigo Procesal</h1>
+      <p class="header-subtitle" id="headerSubtitle"></p>
+    </div>
+    <div class="search-container">
+      <input
+        type="text"
+        id="searchInput"
+        class="search-input"
+        placeholder="Buscar por numero de articulo, titulo o contenido..."
+        autocomplete="off"
+      >
+      <div id="searchResults" class="search-results"></div>
+    </div>
+  </header>
+
+  <div class="layout">
+    <nav class="sidebar" id="sidebar">
+      <button class="sidebar-toggle" id="sidebarToggle" aria-label="Abrir menu">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="sidebar-content" id="sidebarContent">
+        <div id="navTree" class="nav-tree"></div>
+      </div>
+    </nav>
+
+    <main class="main-content" id="mainContent">
+      <div class="welcome" id="welcomeScreen">
+        <h2>Bienvenido</h2>
+        <p>Seleccione una seccion del menu lateral o utilice el buscador para encontrar un articulo.</p>
+        <div class="stats" id="stats"></div>
+      </div>
+
+      <div class="article-view" id="articleView" style="display:none;">
+        <div class="breadcrumb" id="breadcrumb"></div>
+        <article class="article-content" id="articleContent"></article>
+        <div class="article-nav" id="articleNav"></div>
+      </div>
+
+      <div class="section-view" id="sectionView" style="display:none;">
+        <div class="breadcrumb" id="sectionBreadcrumb"></div>
+        <h2 class="section-title" id="sectionTitle"></h2>
+        <div class="articles-list" id="articlesList"></div>
+      </div>
+    </main>
+  </div>
+
+  <footer class="footer">
+    <p>Consulta interactiva del Codigo Procesal. Este sitio es de caracter informativo.</p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

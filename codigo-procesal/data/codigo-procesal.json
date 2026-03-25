@@ -1,0 +1,287 @@
+{
+  "titulo": "Codigo Procesal Civil y Comercial",
+  "jurisdiccion": "Provincia de Buenos Aires",
+  "libros": [
+    {
+      "id": "libro-1",
+      "numero": "I",
+      "titulo": "Disposiciones Generales",
+      "secciones": [
+        {
+          "id": "seccion-1-1",
+          "numero": "I",
+          "titulo": "Organo Judicial",
+          "capitulos": [
+            {
+              "id": "cap-1-1-1",
+              "numero": "I",
+              "titulo": "Competencia",
+              "articulos": [
+                {
+                  "id": "art-1",
+                  "numero": 1,
+                  "titulo": "Caracter",
+                  "contenido": "La competencia atribuida a los tribunales provinciales es improrrogable.\nExceptuase la competencia territorial en los asuntos exclusivamente patrimoniales, que podra ser prorrogada de conformidad de partes. Cuando la prorroga resulte de un convenio, la misma podra admitirse aun a favor de jueces extranjeros o de arbitros que actuen fuera de la Republica, salvo en los casos en que los tribunales provinciales tienen jurisdiccion exclusiva o cuando la prorroga esta prohibida por ley."
+                },
+                {
+                  "id": "art-2",
+                  "numero": 2,
+                  "titulo": "Prorroga expresa o tacita",
+                  "contenido": "La prorroga se operara si surgiere de convenio escrito mediante el cual los interesados manifiesten explicitamente su decision de someterse a la competencia del juez a quien acuden. Asimismo, para el actor, por el hecho de entablar la demanda; y respecto del demandado, cuando la contestare, dejare de hacerlo u opusiere excepciones previas sin articular la declinatoria."
+                },
+                {
+                  "id": "art-3",
+                  "numero": 3,
+                  "titulo": "Indelegabilidad",
+                  "contenido": "La competencia tampoco podra ser delegada, pero esta permitido encomendar a los jueces de otras localidades la realizacion de diligencias determinadas.\nLos jueces nacionales podran cometer directamente dichas diligencias a los jueces provinciales, y estos a aquellos."
+                },
+                {
+                  "id": "art-4",
+                  "numero": 4,
+                  "titulo": "Declaracion de incompetencia",
+                  "contenido": "Toda demanda debera interponerse ante juez competente, y siempre que de la exposicion de los hechos resultare no ser de la competencia del juez ante quien se deduce, debera dicho juez inhibirse de oficio.\nConsentida o ejecutoriada la respectiva resolucion, se remitira la causa al juez tenido por competente. En los asuntos exclusivamente patrimoniales no procedera la declaracion de incompetencia de oficio, fundada en razon del territorio."
+                },
+                {
+                  "id": "art-5",
+                  "numero": 5,
+                  "titulo": "Reglas generales",
+                  "contenido": "A falta de otras disposiciones sera juez competente:\n1) Cuando se ejerciten acciones reales sobre bienes inmuebles, el del lugar donde este situado el bien litigioso.\n2) Cuando se ejerciten acciones reales sobre bienes muebles, el del lugar en que se encuentren o el del domicilio del demandado.\n3) Cuando se ejerciten acciones personales, el del lugar en que deba cumplirse la obligacion expresa o implicitamente establecido.\n4) En las acciones personales derivadas de delitos o cuasidelitos, el del lugar del hecho o el del domicilio del demandado, a eleccion del actor.\n5) En las acciones de separacion personal, divorcio vincular y nulidad de matrimonio asi como las que versaren sobre los efectos del matrimonio, el del ultimo domicilio conyugal efectivo o el del domicilio del conyuge demandado, a eleccion del conyuge actor.\n6) En las acciones de alimentos o litis expensas, el del domicilio del beneficiario, el del demandado, o el del lugar de cumplimiento de la obligacion, a opcion del actor.\n7) En las acciones de filiacion, el del domicilio del hijo.\n8) En los pedidos de segunda copia o de rectificacion de errores de escrituras publicas, el del lugar donde se otorgaron o protocolizaron.\n9) En la protocolizacion de testamentos, el del lugar donde debe iniciarse la sucesion.\n10) En las acciones que deriven de relaciones societarias, el del lugar del domicilio social inscripto. Si la sociedad no requiere inscripcion, el del lugar del domicilio fijado en el contrato; en su defecto o tratandose de sociedad irregular o de hecho, el del lugar de la sede social.\n11) En los procesos voluntarios, el del domicilio de la persona en cuyo interes se promueven, salvo disposicion en contrario."
+                }
+              ]
+            },
+            {
+              "id": "cap-1-1-2",
+              "numero": "II",
+              "titulo": "Cuestiones de Competencia",
+              "articulos": [
+                {
+                  "id": "art-6",
+                  "numero": 6,
+                  "titulo": "Cuestiones de competencia",
+                  "contenido": "Las cuestiones de competencia solo podran promoverse por via de declinatoria, con excepcion de las que se susciten entre jueces de distintas circunscripciones judiciales, en las que tambien procedera la inhibitoria.\nEn uno y otro caso, la cuestion solo podra promoverse antes de haberse consentido la competencia que se reclama.\nElegida una via no podra en lo sucesivo usarse de otra."
+                },
+                {
+                  "id": "art-7",
+                  "numero": 7,
+                  "titulo": "Declinatoria e inhibitoria",
+                  "contenido": "La declinatoria se sustanciara como las demas excepciones previas.\nLa inhibitoria podra plantearse hasta el momento de oponer excepciones o de contestar la demanda si aquel tramite no se hallare establecido, ante el juez que se considere competente. Planteada la inhibitoria, el juez se dirigira al que este conociendo en la causa solicitandole que se inhiba y remita el expediente."
+                },
+                {
+                  "id": "art-8",
+                  "numero": 8,
+                  "titulo": "Planteamiento y decision de la inhibitoria",
+                  "contenido": "Si entablada la inhibitoria el juez se declarare competente, la resolucion y las piezas necesarias se remitiran al juez requirente quien debera inhibirse y remitir el expediente al tribunal competente.\nSi se resistiere a hacerlo, o si ambos jueces se declararen competentes, se enviaran las actuaciones al tribunal competente para dirimir la contienda."
+                }
+              ]
+            },
+            {
+              "id": "cap-1-1-3",
+              "numero": "III",
+              "titulo": "Recusaciones y Excusaciones",
+              "articulos": [
+                {
+                  "id": "art-9",
+                  "numero": 9,
+                  "titulo": "Recusacion sin expresion de causa",
+                  "contenido": "Los jueces de primera instancia podran ser recusados sin expresion de causa. El actor podra ejercer esta facultad al entablar la demanda o en su primera presentacion; el demandado, en su primera presentacion, antes o al tiempo de contestarla, o de oponer excepciones en el juicio ejecutivo, o de comparecer a la audiencia senalada como primer acto procesal."
+                },
+                {
+                  "id": "art-10",
+                  "numero": 10,
+                  "titulo": "Limites",
+                  "contenido": "La facultad de recusar sin expresion de causa podra usarse una vez en cada caso. Cuando sean varios los actores o los demandados solo uno de ellos podra ejercer esta facultad."
+                },
+                {
+                  "id": "art-11",
+                  "numero": 11,
+                  "titulo": "Consecuencias",
+                  "contenido": "Deducida la recusacion sin expresion de causa, el juez recusado se inhibira pasando las actuaciones, dentro del primer dia habil, al juez que le siga en el orden del turno, sin que por ello se suspenda el tramite, los plazos ni el cumplimiento de diligencias ya ordenadas."
+                },
+                {
+                  "id": "art-12",
+                  "numero": 12,
+                  "titulo": "Recusacion con expresion de causa",
+                  "contenido": "Seran causas legales de recusacion:\n1) El parentesco por consanguinidad dentro del cuarto grado y segundo de afinidad con alguna de las partes, sus mandatarios o letrados.\n2) Tener el juez o sus consanguineos o afines dentro del grado expresado en el inciso anterior, interes en el pleito o en otro semejante, o sociedad o comunidad con alguno de los litigantes, procuradores o abogados, salvo que la sociedad fuese anonima.\n3) Tener el juez pleito pendiente con el recusante.\n4) Ser el juez acreedor, deudor o fiador de alguna de las partes, con excepcion de los bancos oficiales.\n5) Ser o haber sido el juez autor de denuncia o querella contra el recusante, o denunciado o querellado por este con anterioridad a la iniciacion del pleito.\n6) Ser o haber sido el juez denunciado por el recusante en los terminos de la ley de enjuiciamiento de magistrados, siempre que la Suprema Corte hubiere dispuesto dar curso a la denuncia.\n7) Haber sido el juez defensor de alguno de los litigantes o emitido opinion o dictamen o dado recomendaciones acerca del pleito, antes o despues de comenzado.\n8) Haber recibido el juez beneficios de importancia de alguna de las partes.\n9) Tener el juez con alguno de los litigantes amistad que se manifieste por gran familiaridad o frecuencia en el trato.\n10) Tener contra el recusante enemistad, odio o resentimiento que se manifieste por hechos conocidos. En ningun caso procedera la recusacion por ataques u ofensas inferidas al juez despues que hubiere comenzado a conocer del asunto."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "seccion-1-2",
+          "numero": "II",
+          "titulo": "Partes",
+          "capitulos": [
+            {
+              "id": "cap-1-2-1",
+              "numero": "I",
+              "titulo": "Reglas Generales",
+              "articulos": [
+                {
+                  "id": "art-25",
+                  "numero": 25,
+                  "titulo": "Capacidad procesal",
+                  "contenido": "Todo el que tenga capacidad para estar en juicio podra hacerlo personalmente o por medio de mandatario, con arreglo a las disposiciones de este Codigo."
+                },
+                {
+                  "id": "art-26",
+                  "numero": 26,
+                  "titulo": "Representacion de las personas juridicas",
+                  "contenido": "Las personas juridicas solo podran ser representadas en juicio por quienes, segun la ley o sus estatutos, deban representarlas."
+                },
+                {
+                  "id": "art-27",
+                  "numero": 27,
+                  "titulo": "Justificacion de la personeria",
+                  "contenido": "Los representantes deberan acreditar su personeria en la primera gestion que realicen, acompanando los documentos habilitantes. Sin embargo, cuando se invoque un poder general o especial vigente, se lo acreditara con la agregacion de una copia integra firmada por el letrado patrocinante o por el apoderado. De oficio o a pedido de parte, podra intimarse la presentacion del testimonio original."
+                }
+              ]
+            },
+            {
+              "id": "cap-1-2-2",
+              "numero": "II",
+              "titulo": "Litisconsorcio",
+              "articulos": [
+                {
+                  "id": "art-88",
+                  "numero": 88,
+                  "titulo": "Litisconsorcio facultativo",
+                  "contenido": "Podran varias partes demandar o ser demandadas en un mismo proceso cuando las acciones sean conexas por el titulo, o por el objeto, o por ambos elementos a la vez."
+                },
+                {
+                  "id": "art-89",
+                  "numero": 89,
+                  "titulo": "Litisconsorcio necesario",
+                  "contenido": "Cuando la sentencia no pudiere pronunciarse utilmente mas que con relacion a varias partes, estas habran de demandar o ser demandadas en un mismo proceso. Si asi no sucediere, el juez de oficio o a solicitud de cualquiera de las partes ordenara, antes de dictar la providencia de apertura a prueba, la integracion de la litis dentro de un plazo que senalara, quedando en suspenso el desarrollo del proceso mientras se cita al litigante o litigantes omitidos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "seccion-1-3",
+          "numero": "III",
+          "titulo": "Actos Procesales",
+          "capitulos": [
+            {
+              "id": "cap-1-3-1",
+              "numero": "I",
+              "titulo": "Actuaciones en General",
+              "articulos": [
+                {
+                  "id": "art-115",
+                  "numero": 115,
+                  "titulo": "Idioma y formalidades",
+                  "contenido": "En todos los actos del proceso se utilizara el idioma nacional. Cuando este no fuere conocido por la persona que deba prestar declaracion, el juez o tribunal designara por sorteo un traductor publico. Cuando debieren utilizarse documentos redactados en idioma extranjero se acompanaran con su traduccion realizada por traductor publico matriculado."
+                },
+                {
+                  "id": "art-116",
+                  "numero": 116,
+                  "titulo": "Escritos",
+                  "contenido": "Para la presentacion de escritos rigen los siguientes requisitos:\n1) Confeccionarse en tinta negra o azul.\n2) Encabezarse con la expresion de su objeto, el nombre de quien lo presente, su domicilio constituido y la enunciacion precisa de la caratula del expediente.\n3) Redactarse en la forma mas concisa posible."
+                }
+              ]
+            },
+            {
+              "id": "cap-1-3-2",
+              "numero": "II",
+              "titulo": "Plazos",
+              "articulos": [
+                {
+                  "id": "art-150",
+                  "numero": 150,
+                  "titulo": "Caracter",
+                  "contenido": "Los plazos legales o judiciales son perentorios; podran ser prorrogados por acuerdo de partes con relacion a actos procesales determinados.\nCuando este Codigo no fijare expresamente el plazo que corresponda para la realizacion de un acto, lo senalara el juez de conformidad con la naturaleza del proceso y la importancia de la diligencia."
+                },
+                {
+                  "id": "art-151",
+                  "numero": 151,
+                  "titulo": "Comienzo",
+                  "contenido": "Los plazos empezaran a correr desde la notificacion y si fuesen comunes, desde la ultima."
+                },
+                {
+                  "id": "art-152",
+                  "numero": 152,
+                  "titulo": "Dias y horas habiles",
+                  "contenido": "Las actuaciones y diligencias judiciales se practicaran en dias y horas habiles, bajo pena de nulidad.\nSon dias habiles todos los del ano, con excepcion de los que determine el Reglamento para la Justicia.\nSon horas habiles las comprendidas dentro del horario establecido por la Suprema Corte para el funcionamiento de los tribunales; pero respecto de las diligencias que los jueces, funcionarios o empleados deben practicar fuera de la oficina, son horas habiles las que median entre las 7 y las 20."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "libro-2",
+      "numero": "II",
+      "titulo": "Procesos de Conocimiento",
+      "secciones": [
+        {
+          "id": "seccion-2-1",
+          "numero": "I",
+          "titulo": "Demanda y Reconvencion",
+          "capitulos": [
+            {
+              "id": "cap-2-1-1",
+              "numero": "I",
+              "titulo": "Demanda",
+              "articulos": [
+                {
+                  "id": "art-330",
+                  "numero": 330,
+                  "titulo": "Forma de la demanda",
+                  "contenido": "La demanda sera deducida por escrito y contendra:\n1) El nombre y domicilio real del demandante.\n2) El nombre y domicilio del demandado.\n3) La cosa demandada, designandola con toda exactitud.\n4) Los hechos en que se funde, explicados claramente.\n5) El derecho expuesto sucintamente, evitando repeticiones innecesarias.\n6) La peticion en terminos claros y positivos.\nLa demanda debera precisar el monto reclamado, salvo cuando al actor no le fuere posible determinarlo al promoverla, por las circunstancias del caso, o porque la estimacion dependiera de elementos aun no definitivamente fijados y la promocion de la demanda fuese imprescindible para evitar la prescripcion de la accion. En estos supuestos, no procedera la excepcion de defecto legal.\nLa sentencia fijara el monto que resulte de las pruebas producidas."
+                },
+                {
+                  "id": "art-331",
+                  "numero": 331,
+                  "titulo": "Documentos que deben acompanarse",
+                  "contenido": "Con la demanda, reconvencion y contestacion de ambas, debera acompanarse la prueba documental y ofrecerse todas las demas pruebas de que las partes intentaren valerse.\nCuando la prueba documental no estuviere a su disposicion, la parte interesada debera individualizarla, indicando su contenido, el lugar, archivo, oficina publica o persona en cuyo poder se encuentre."
+                }
+              ]
+            },
+            {
+              "id": "cap-2-1-2",
+              "numero": "II",
+              "titulo": "Excepciones Previas",
+              "articulos": [
+                {
+                  "id": "art-344",
+                  "numero": 344,
+                  "titulo": "Excepciones admisibles",
+                  "contenido": "Solo se admitiran como previas las siguientes excepciones:\n1) Incompetencia.\n2) Falta de personeria en el demandante, en el demandado o sus representantes, por carecer de capacidad civil para estar en juicio o de representacion suficiente.\n3) Falta de legitimacion para obrar en el actor o en el demandado, cuando fuere manifiesta, sin perjuicio, en caso de no concurrir esta ultima circunstancia, de que el juez la considere en la sentencia definitiva.\n4) Litispendencia.\n5) Defecto legal en el modo de proponer la demanda.\n6) Cosa juzgada.\n7) Transaccion, conciliacion y desistimiento del derecho.\n8) Las defensas temporarias que se consagran en las leyes generales, tales como el beneficio de inventario o el de excusion, o las previstas en los articulos 2486 y 3357 del Codigo Civil."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "seccion-2-2",
+          "numero": "II",
+          "titulo": "Prueba",
+          "capitulos": [
+            {
+              "id": "cap-2-2-1",
+              "numero": "I",
+              "titulo": "Normas Generales",
+              "articulos": [
+                {
+                  "id": "art-358",
+                  "numero": 358,
+                  "titulo": "Apertura a prueba",
+                  "contenido": "Siempre que se hayan alegado hechos conducentes acerca de los cuales no hubiere conformidad entre las partes, aunque estas no lo pidan, el juez recibira la causa a prueba procediendo de acuerdo a lo preceptuado en el articulo 359. La audiencia alli prevista debera senalarse dentro de los 15 dias."
+                },
+                {
+                  "id": "art-359",
+                  "numero": 359,
+                  "titulo": "Audiencia preliminar",
+                  "contenido": "A los fines del articulo anterior el juez citara a las partes a una audiencia que se celebrara con su intervencion, en la que:\n1) Invitara a las partes a una conciliacion o a encontrar otra forma de solucion de conflictos.\n2) Recibirá las manifestaciones de las partes con referencia a lo prescripto en el articulo 360 fijando los hechos articulados que sean conducentes a la decision del juicio, sobre los cuales versara la prueba, y desestimara los que considere inconducentes de acuerdo con las manifestaciones vertidas.\n3) Considerara las oposiciones que se hubiesen formulado respecto de la apertura a prueba.\n4) Declarara cuales son los hechos que considere provisoriamente conducentes.\n5) Proveerá en lo pertinente las pruebas que considere admisibles."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
